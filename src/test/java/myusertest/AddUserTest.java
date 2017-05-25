@@ -13,6 +13,10 @@ public class AddUserTest {
 	public AddUserTest() {
 		// TODO Auto-generated constructor stub
 	}
+	@Test
+	public void simpleTest()
+	{
+	}
 
 /*	@Test
 	public void testAddUser_validinput()
