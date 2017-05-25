@@ -37,7 +37,7 @@ public class AddUserTest {
 			fail();
 		}
 		
-	} */
+	} 
 	
 	@Test
 	public void testAddUser_invalidinput()
@@ -105,6 +105,6 @@ public class AddUserTest {
 		}
 		
 	}
-	
+	*/
 	
 }
