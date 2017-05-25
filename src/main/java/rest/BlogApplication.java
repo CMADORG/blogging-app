@@ -1,4 +1,4 @@
-package com.mycmad.rest;
+package rest;
 
 import javax.ws.rs.ApplicationPath;
 
